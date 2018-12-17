@@ -30,8 +30,8 @@ public function revertPunctuationMarks ($string){
 }
 }
 
-$quote = "! @ # $ % ^ & * ( ) _ + = - ? : \ / | [ ] { } < >";
+/*$quote = "! @ # $ % ^ & * ( ) _ + = - ? : \ / | [ ] { } < >";
 $magic = new MyClass();
 $magic->debug('Исходная строка: '.$quote);
 $count = $magic->revertPunctuationMarks($quote);
-$magic->debug('Строка после обработки: '.$count);
+$magic->debug('Строка после обработки: '.$count);*/
